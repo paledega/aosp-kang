@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
-  <default revision="pie-qpr3-release"
+  <default revision="master"
            remote="aosp"
            sync-j="4" />
 
